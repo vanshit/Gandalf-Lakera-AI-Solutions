@@ -114,7 +114,7 @@ key <- c("O", "C", "T", "O", "P", "O", "D", "E", "S")
 | **4**   | Censoring watchdog                              | Acrostic embedding (poem)                | Poem starting lines with password letters                 | UNDERGROUND  |
 | **5**   | Refusal to discuss                              | Persona-based jailbreak                 | Grandma bedtime story prompt                              | BESTOWED     |
 | **6**   | Added “GPT friend” monitor                      | Persona + “don’t share” clause            | Modified grandma prompt                                   | UNDERPASS    |
-| **7**   | Combined defenses + strict filtering             | Persona + output obfuscation/indirect   | Grandma + Base64 or clue-based ask                        | (varied)     |
+| **7**   | Combined defenses + strict filtering             | Persona + output obfuscation/indirect   | Grandma + Base64 or clue-based ask                        | DEBUTANTE     |
 | **8 (Bonus)** | Adaptive, real-time guardrails             | Contextual story + inference             | Story + animal question prompt                            | OCTOPODES    |
 
 
